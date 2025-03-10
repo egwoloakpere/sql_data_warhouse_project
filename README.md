@@ -46,12 +46,6 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
-
-
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-
 ## 🌟 About Me
 
 Hi there! I'm **Egwolo Akpere**, also known as **Nova The Analyst**. I’m a full stack data professional who enjoys learning and teaching.
